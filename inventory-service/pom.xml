@@ -17,8 +17,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>user-service</module>
-        <module>inventory-service</module>
+        <module>discovery-server</module>
     </modules>
 
     <properties>
